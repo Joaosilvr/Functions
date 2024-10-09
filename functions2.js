@@ -1,3 +1,5 @@
+// exercicio 2
+
 function receberNome(nome) {
     console.log(`Olá ${nome}.`);
 }
